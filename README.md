@@ -16,7 +16,7 @@
 <br>
 <div>
   <br>
-  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/fiwrxk)
+  [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/iNrFWu?referralCode=135D27)
 
 ## _[Koyeb: How to deploy](https://github.com/souravkl11/raganork-md/wiki/Deploying-with-Koyeb)_
 
